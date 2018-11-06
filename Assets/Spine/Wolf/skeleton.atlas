@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body/WOLF_body
+  rotate: true
+  xy: 2, 61
+  size: 65, 170
+  orig: 65, 170
+  offset: 0, 0
+  index: -1
+body/hip
+  rotate: true
+  xy: 467, 81
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+head/WOLF_head
+  rotate: false
+  xy: 84, 4
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+left_arm/ARM_3
+  rotate: false
+  xy: 141, 4
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+left_arm/ARM_4
+  rotate: true
+  xy: 256, 101
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+left_leg/LEG_3
+  rotate: true
+  xy: 410, 96
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+left_leg/LEG_4
+  rotate: true
+  xy: 2, 9
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+left_leg/LEG_5
+  rotate: false
+  xy: 220, 2
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+right_leg/LEG_3
+  rotate: false
+  xy: 220, 2
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+right_arm/RIGHT_1
+  rotate: false
+  xy: 178, 19
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+right_arm/RIGHT_2
+  rotate: true
+  xy: 333, 101
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+right_leg/LEG_1
+  rotate: false
+  xy: 220, 24
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+right_leg/LEG_2
+  rotate: true
+  xy: 174, 76
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
